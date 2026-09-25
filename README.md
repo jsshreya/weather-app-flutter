@@ -71,6 +71,13 @@ The application first uses the Open-Meteo Geocoding API to find the latitude and
 
 The coordinates are then used with the Open-Meteo Forecast API to retrieve the weather information.
 
+
+
+
+## 📥 Download APK
+
+[Download SkyCast Weather App APK](https://drive.google.com/file/d/1JM89eks5JxfCmHYOsEVQAjYcDS7KR6-y/view?usp=sharing)
+
 ### APIs Used
 
 **Geocoding API**
